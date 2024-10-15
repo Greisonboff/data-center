@@ -1,18 +1,1 @@
-[
-    {
-        "nome_projeto": "Atualização de portfólio",
-        "descricao": "O projeto atualização de portfólio foi desenvolvido para suprir uma necessidade de cadastramento de certificações e projetos ao meu portfólio assim agilizando processos. O mesmo conta com formulários desenvolvidos para realizar o cadastro e salvar as informações em uma base de dados centralizada no Github e posteriormente esses dados serão consumidos pelos projetos de portfólio.\nDesenvolvido nas tecnologias de React e Tailwindcss.",
-        "link": "https://gb-portfolio-update.vercel.app/projeto",
-        "link_git": "https://github.com/Greisonboff/portfolio_update",
-        "caminho_imagem": "portfolio-update-",
-        "key": "dd9f7935-79e7-4be6-a05b-1d201ae44c3b"
-    },
-    {
-        "nome_projeto": "Jogo mata moscas",
-        "descricao": "O Jogo Mata Moscas é uma aplicação web desenvolvida em html, css, javascript, jquery e php. A aplicação é um jogo com o intuito de matar as moscas em um determinado tempo, ao passar para os próximos níveis as dificuldades vão aumentando e por fim se acabar o tempo ou o número de moscas na tela passar do limite finaliza o jogo. Conta com login de cadastro que salvas os dados em um banco de dados, com validações de senha e recuperação de senha por e-mail, dados como pontuação recorde também são armazenados e apresentados ao jogador no fim do jogo.",
-        "link": "https://mata-mosca-gold.vercel.app/",
-        "link_git": "",
-        "caminho_imagem": "mata-mosca-home-",
-        "key": "7de6a344-c474-4307-8635-253170cd99b3"
-    }
-]
+[{"nome_projeto":"teste nome","descricao":"teste desc","link":"teste link","link_git":"link git","caminho_imagem":"caminho img","key":"5a539c26-4081-4fab-b64e-8bad48ec7cb3"},{"nome_projeto":"Atualização de portfólio","descricao":"O projeto atualização de portfólio foi desenvolvido para suprir uma necessidade de cadastramento de certificações e projetos ao meu portfólio assim agilizando processos. O mesmo conta com formulários desenvolvidos para realizar o cadastro e salvar as informações em uma base de dados centralizada no Github e posteriormente esses dados serão consumidos pelos projetos de portfólio.\nDesenvolvido nas tecnologias de React e Tailwindcss.","link":"https://gb-portfolio-update.vercel.app/projeto","link_git":"https://github.com/Greisonboff/portfolio_update","caminho_imagem":"portfolio-update-","key":"dd9f7935-79e7-4be6-a05b-1d201ae44c3b"},{"nome_projeto":"Jogo mata moscas","descricao":"O Jogo Mata Moscas é uma aplicação web desenvolvida em html, css, javascript, jquery e php. A aplicação é um jogo com o intuito de matar as moscas em um determinado tempo, ao passar para os próximos níveis as dificuldades vão aumentando e por fim se acabar o tempo ou o número de moscas na tela passar do limite finaliza o jogo. Conta com login de cadastro que salvas os dados em um banco de dados, com validações de senha e recuperação de senha por e-mail, dados como pontuação recorde também são armazenados e apresentados ao jogador no fim do jogo.","link":"https://mata-mosca-gold.vercel.app/","link_git":"","caminho_imagem":"mata-mosca-home-","key":"7de6a344-c474-4307-8635-253170cd99b3"}]
